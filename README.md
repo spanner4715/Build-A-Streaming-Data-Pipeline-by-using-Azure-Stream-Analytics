@@ -11,9 +11,9 @@
 
 (4) Create table structure (Dataset) in SQL database.  
 
-(5) Add the event hub as an input source for the stream analytics  
+(5) Add the event hub as an input source for the stream analytics job  
 
-(6) Add the azure SQL database as the output source for the stream analytics  
+(6) Add the azure SQL database as the output source for the stream analytics job   
 
 (7) Start stream analytics job.
 
