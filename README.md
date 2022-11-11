@@ -22,3 +22,12 @@
 (9) Load data from azure SQL database tables into Power BI.  
 
 (10) Create a dashboard in Power BI.
+
+### Notification
+(1) Connection_str (in transport_index.py)
+![image](https://user-images.githubusercontent.com/103509243/201256024-c036d79d-58e4-44be-aa56-917d78b191be.png)
+(2) Connection to SQL database
+![image](https://user-images.githubusercontent.com/103509243/201256515-971b08ff-03ee-4c6a-b50d-130ba617eeae.png)
+(3) Set up firewall
+![image](https://user-images.githubusercontent.com/103509243/201256554-e009f27c-36dc-49a1-a054-0f12bd8b0e44.png)
+
